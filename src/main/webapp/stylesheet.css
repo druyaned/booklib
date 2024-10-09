@@ -1,0 +1,51 @@
+body {
+    font-family: "Monaco", monospace;
+}
+
+body h1 {
+    font-size: 48px;
+}
+
+body p,  body a {
+    font-size: 24px;
+}
+
+img {
+    border: 1px solid #ededed;
+    border-radius: 4px;
+    padding: 5px;
+    height: 192px;
+}
+
+img.onlyone {
+    border: 1px solid #ededed;
+    border-radius: 4px;
+    padding: 5px;
+    height: 384px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    font-size: 24px;
+    background: #e0e0e0;
+    border: 1px solid #a0a0a0;
+    padding: 8px 10px;
+    text-align: left;
+    vertical-align: central;
+}
+
+td {
+    font-size: 24px;
+    border: 1px solid #a0a0a0;
+    padding: 8px 10px;
+    text-align: left;
+    vertical-align: central;
+}
+
+td.linked:hover {
+    background: #c0c0f8;
+}
