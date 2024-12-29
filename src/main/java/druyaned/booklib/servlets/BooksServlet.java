@@ -1,8 +1,8 @@
-package com.github.druyaned.booklib.servlets;
+package druyaned.booklib.servlets;
 
-import com.github.druyaned.booklib.data.Book;
-import com.github.druyaned.booklib.data.BookRepository;
-import com.github.druyaned.booklib.data.BookUtil;
+import druyaned.booklib.data.Book;
+import druyaned.booklib.data.BookRepository;
+import druyaned.booklib.data.BookUtil;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;

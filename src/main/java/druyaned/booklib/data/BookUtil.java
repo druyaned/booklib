@@ -1,4 +1,4 @@
-package com.github.druyaned.booklib.data;
+package druyaned.booklib.data;
 
 import jakarta.servlet.http.HttpServletRequest;
 

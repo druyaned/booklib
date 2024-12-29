@@ -1,4 +1,4 @@
-package com.github.druyaned.booklib.data;
+package druyaned.booklib.data;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

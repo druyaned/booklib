@@ -1,4 +1,4 @@
-package com.github.druyaned.booklib.data;
+package druyaned.booklib.data;
 
 import java.time.LocalDate;
 
@@ -9,4 +9,5 @@ public record Book(
         String imageURL,
         String description,
         LocalDate date
-) {}
+) {
+}

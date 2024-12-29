@@ -5,9 +5,9 @@
 
 <jsp:directive.page language="java" />
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@page import="com.github.druyaned.booklib.data.Book" %>
-<%@page import="com.github.druyaned.booklib.data.BookRepository" %>
-<%@page import="com.github.druyaned.booklib.data.BookUtil" %>
+<%@page import="druyaned.booklib.data.Book" %>
+<%@page import="druyaned.booklib.data.BookRepository" %>
+<%@page import="druyaned.booklib.data.BookUtil" %>
 
 <jsp:scriptlet>
     String[] reqUriParts = request.getRequestURI().split("/");

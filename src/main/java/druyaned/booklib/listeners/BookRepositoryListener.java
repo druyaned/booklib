@@ -1,6 +1,6 @@
-package com.github.druyaned.booklib.listeners;
+package druyaned.booklib.listeners;
 
-import com.github.druyaned.booklib.data.BookRepository;
+import druyaned.booklib.data.BookRepository;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
